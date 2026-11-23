@@ -8,6 +8,6 @@ export const siteConfig = {
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://tuffui.com",
   github: "https://github.com/yurigok/tuffui",
   donate: "https://ko-fi.com/yurigokoryan",
-  author: { name: "@yurygok", url: "https://x.com/yurygok" },
+  author: { name: "@yurigok", url: "https://x.com/yurigok" },
   license: "MIT",
 } as const;
